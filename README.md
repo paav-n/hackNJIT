@@ -1,0 +1,2 @@
+# hackNJIT
+hack NJIT repo
